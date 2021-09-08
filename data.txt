@@ -1,0 +1,2 @@
+urltocheck.com,yoururl.com
+urltocheck2.de,yoururl.de
