@@ -13,3 +13,6 @@
  
  After that, start and enjoy the scraper doing it's work.
 
+## More information
+
+https://content-baer.de/2021/09/08/eigene-backlinks-tracken/
