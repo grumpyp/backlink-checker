@@ -16,3 +16,7 @@
 ## More information
 
 https://content-baer.de/2021/09/08/eigene-backlinks-tracken/
+
+https://img.youtube.com/vi/7BUP7Rtei4g/0.jpg
+
+[![Kostenloses Backlink Checker Tool](https://img.youtube.com/vi/7BUP7Rtei4g/0.jpg)](https://www.youtube.com/watch?v=7BUP7Rtei4g "Eigene Backlinks tracken - Kostenloses Python Script")
